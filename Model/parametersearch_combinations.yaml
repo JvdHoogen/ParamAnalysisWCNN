@@ -1,0 +1,41 @@
+kernel_size_fl:
+- 256
+- 128
+- 64
+- 32
+- 16
+stride_fl:
+- 16
+- 8
+- 4
+filters_fl:
+- 256
+- 128
+- 64
+- 32
+- 16
+- 8
+filters_sl:
+- 256
+- 128
+- 64
+- 32
+- 16
+- 8
+kernel_size_sl:
+- 6
+- 3
+stride_sl:
+- 1
+filters_restl:
+- 256
+- 128
+- 64
+- 32
+- 16
+- 8
+kernel_size_restl:
+- 6
+- 3
+stride_restl:
+- 1
