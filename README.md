@@ -9,8 +9,8 @@ in Industrial Fault Detection – An Exploratory Study" for reproducing our prop
 
 Usage of our code requires many packages to be installed on your machine. The most important packages are listed below:
 
-*Numpy
-*Tensorflow
-*Keras
-*Pandas
-*Sklearn
+* Numpy
+* Tensorflow
+* Keras
+* Pandas
+* Sklearn
