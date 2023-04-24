@@ -6,6 +6,9 @@ Repository for Hyperparameter analysis on Wide-Kernel CNN models. This repositor
 
 Authors: Jurgen van den Hoogen, Dan Hudson, Stefan Bloemheuvel & Martin Atzmueller. 
 
+For information regarding the results from the experiments, please contact any of the authors.
+
+
 ### Requirements
 
 Usage of our code requires many packages to be installed on your machine. The most important packages are listed below:
